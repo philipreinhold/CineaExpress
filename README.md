@@ -1,2 +1,2 @@
 # CineaExpress
- Quick Photo/Frameeditor for Filmmakers
+Story-Photo/Frameeditor for Filmmakers
